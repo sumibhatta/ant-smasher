@@ -1,0 +1,12 @@
+#canvas{
+    background-color: tomato;
+    width: 80%;
+    height: 80%;
+    margin: 30px auto;
+    display: table;
+}
+
+#ant{
+    cursor: pointer;
+    display: none;
+}
